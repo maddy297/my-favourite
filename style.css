@@ -72,6 +72,51 @@ h2 {
     padding: 70px;
     text-align: center:
 }
-html{
+
+html {
     scroll-behavior: smooth;
+}
+
+#my work a {
+    font-size: :30px;
+}
+
+#references a {
+    font-size: :30px;
+}
+
+.button {
+    background-color: #ffda73;
+    border: none;
+    color: hotpink;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.inspiration {
+    background: linear-gradient(#f7b983, #ffff8f);
+    padding-top: 20px;
+}
+
+img {
+    transition: transform .2s;
+    border: 10px solid #000000
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#picture {
+    width: auto;
+    height: 300px;
+    border-radius: 0%;
+    margin: 20px;
 }
